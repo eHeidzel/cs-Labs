@@ -1,0 +1,7 @@
+C:\Users\jutok\source\repos\la1\la1\obj\Debug\labs.csproj.AssemblyReference.cache
+C:\Users\jutok\source\repos\la1\la1\obj\Debug\labs.csproj.CoreCompileInputs.cache
+C:\Users\jutok\source\repos\la1\la1\bin\Debug\labs.exe.config
+C:\Users\jutok\source\repos\la1\la1\bin\Debug\labs.exe
+C:\Users\jutok\source\repos\la1\la1\bin\Debug\labs.pdb
+C:\Users\jutok\source\repos\la1\la1\obj\Debug\labs.exe
+C:\Users\jutok\source\repos\la1\la1\obj\Debug\labs.pdb
